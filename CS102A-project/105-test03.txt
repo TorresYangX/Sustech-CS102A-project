@@ -1,0 +1,17 @@
+-1 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 1 0 0
+0 0 0 -1 -1 0 0 0
+0 0 -1 1 -1 1 0 0
+0 0 1 0 1 0 0 0
+0 0 0 0 0 1 0 0
+0 0 0 0 0 0 0 0
+Black's Turn
+BLACK clicked (2, 4)
+WHITE clicked (2, 5)
+BLACK clicked (4, 2)
+WHITE clicked (5, 2)
+BLACK clicked (0, 0)
+WHITE clicked (4, 5)
+BLACK clicked (5, 4)
+WHITE clicked (6, 5)
